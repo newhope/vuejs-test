@@ -1,10 +1,8 @@
 # vuejs-test
 
-This template should help get you started developing with Vue 3 in Vite.
+A test project with VueJS 3
+[Codesandbox demo](https://codesandbox.io/p/github/newhope/vuejs-test/main)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
